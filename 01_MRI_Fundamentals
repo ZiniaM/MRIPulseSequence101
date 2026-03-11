@@ -1,0 +1,17 @@
+This is the most fundamental question we ask 
+
+"How Does MRI Create an Image?"
+
+How does an MRI scanner create an image using only magnetic fields and radio waves?
+
+MRI does not “see” tissues directly.
+Instead, it detects very small radiofrequency signals emitted by hydrogen nuclei when they are placed inside a strong magnetic field.
+
+But detecting a signal alone is not enough to form an image.
+
+We need to answer three key questions:
+	1.	How do we generate an MRI signal?
+	2.	How do we control that signal?
+	3.	How do we determine where the signal came from?
+
+The answer lies in MRI pulse sequences.
