@@ -1,0 +1,16 @@
+In simple terms 
+
+Pulse Sequence = Instructions for the MRI scanner
+
+A pulse sequence is a carefully timed series of:
+	•	Radiofrequency (RF) pulses
+	•	Magnetic field gradients
+	•	Signal acquisition windows
+
+These elements control how nuclear spins behave and how signals are measured.
+
+A pulse sequence tells the scanner:
+	•	when to excite spins
+	•	when to refocus signals
+	•	when to measure the signal
+	•	how to encode spatial information
